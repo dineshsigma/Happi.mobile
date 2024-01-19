@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@oman21/rn-datetimepicker": "^1.0.0",
+    "react-icons": "^4.11.0"
+  }
+}

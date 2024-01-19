@@ -1,0 +1,222 @@
+{
+    "status": true,
+    "data": [
+        {
+            "_id": "64ab9e70b98332f73f70728b",
+            "BRAND_NAME": "AA INFOCUS"
+        },
+        {
+            "_id": "64ab9bbbb98332f73f706d4b",
+            "BRAND_NAME": "AA DTEL"
+        },
+        {
+            "_id": "64ab9bb3b98332f73f706d3c",
+            "BRAND_NAME": "FREE ISSUES"
+        },
+        {
+            "_id": "64aba4e2b98332f73f707de6",
+            "BRAND_NAME": "AA DELL"
+        },
+        {
+            "_id": "64ab9c1fb98332f73f706e0d",
+            "BRAND_NAME": "OTHERS"
+        },
+        {
+            "_id": "64ab9bf9b98332f73f706dc4",
+            "BRAND_NAME": "AA MICROMAX"
+        },
+        {
+            "_id": "64ab9bfeb98332f73f706dce",
+            "BRAND_NAME": "AA OPPO"
+        },
+        {
+            "_id": "64ab9c0ab98332f73f706de4",
+            "BRAND_NAME": "AA LENOVO"
+        },
+        {
+            "_id": "64ab9bbcb98332f73f706d4d",
+            "BRAND_NAME": "AA KARBONN"
+        },
+        {
+            "_id": "64ab9bb5b98332f73f706d3f",
+            "BRAND_NAME": "AA GIONEE"
+        },
+        {
+            "_id": "64ab9c1cb98332f73f706e07",
+            "BRAND_NAME": "AA SWIPE"
+        },
+        {
+            "_id": "64ab9e39b98332f73f707221",
+            "BRAND_NAME": "AA MOBIISTAR"
+        },
+        {
+            "_id": "64ab9bd9b98332f73f706d85",
+            "BRAND_NAME": "AA NOKIA"
+        },
+        {
+            "_id": "64aba63bb98332f73f70801f",
+            "BRAND_NAME": "AA TREEVIEW"
+        },
+        {
+            "_id": "64ab9d25b98332f73f707008",
+            "BRAND_NAME": "IT"
+        },
+        {
+            "_id": "64abaa22b98332f73f7086e4",
+            "BRAND_NAME": "AA ASUS"
+        },
+        {
+            "_id": "64abaac2b98332f73f7087e9",
+            "BRAND_NAME": "AA ZEBRONICS"
+        },
+        {
+            "_id": "64ab9bb4b98332f73f706d3d",
+            "BRAND_NAME": "AA IPHONE"
+        },
+        {
+            "_id": "64aba427b98332f73f707cad",
+            "BRAND_NAME": "AA MAC"
+        },
+        {
+            "_id": "64ab9bc6b98332f73f706d60",
+            "BRAND_NAME": "AA SAMSUNG"
+        },
+        {
+            "_id": "64ab9c29b98332f73f706e22",
+            "BRAND_NAME": "ACCESSORIES"
+        },
+        {
+            "_id": "64ab9d70b98332f73f70709a",
+            "BRAND_NAME": "AA ITEL"
+        },
+        {
+            "_id": "64aba143b98332f73f7077cb",
+            "BRAND_NAME": "AA MEIZU"
+        },
+        {
+            "_id": "64ab9cbbb98332f73f706f3b",
+            "BRAND_NAME": "OPE JIO"
+        },
+        {
+            "_id": "64aba7ceb98332f73f7082b5",
+            "BRAND_NAME": "AA ACER"
+        },
+        {
+            "_id": "64ab9bb6b98332f73f706d41",
+            "BRAND_NAME": "AA CELKON"
+        },
+        {
+            "_id": "64ab9c03b98332f73f706dd7",
+            "BRAND_NAME": "AA VIVO"
+        },
+        {
+            "_id": "64aba44fb98332f73f707cef",
+            "BRAND_NAME": "AA HP"
+        },
+        {
+            "_id": "64ab9d36b98332f73f707029",
+            "BRAND_NAME": "AA IKALL"
+        },
+        {
+            "_id": "64aba62fb98332f73f70800b",
+            "BRAND_NAME": "AA KODAK"
+        },
+        {
+            "_id": "64ab9bc1b98332f73f706d58",
+            "BRAND_NAME": "ACC EOL"
+        },
+        {
+            "_id": "64ab9bebb98332f73f706da9",
+            "BRAND_NAME": "AA HONOR"
+        },
+        {
+            "_id": "64ababbfb98332f73f708985",
+            "BRAND_NAME": "AA SANSUI"
+        },
+        {
+            "_id": "64ab9bb4b98332f73f706d3e",
+            "BRAND_NAME": "AA XIAOMI"
+        },
+        {
+            "_id": "64ab9de5b98332f73f70717d",
+            "BRAND_NAME": "AA JIVI"
+        },
+        {
+            "_id": "64aba082b98332f73f707687",
+            "BRAND_NAME": "AA REALME"
+        },
+        {
+            "_id": "64ab9bc2b98332f73f706d59",
+            "BRAND_NAME": "AA LG"
+        },
+        {
+            "_id": "64ab9c10b98332f73f706df0",
+            "BRAND_NAME": "AA JIO"
+        },
+        {
+            "_id": "64ab9ea9b98332f73f7072f9",
+            "BRAND_NAME": "AA IPAD"
+        },
+        {
+            "_id": "64aba20fb98332f73f707920",
+            "BRAND_NAME": "AA TCL"
+        },
+        {
+            "_id": "64ab9bd5b98332f73f706d7f",
+            "BRAND_NAME": "AA SONY"
+        },
+        {
+            "_id": "64ab9bedb98332f73f706dac",
+            "BRAND_NAME": "AA LAVA"
+        },
+        {
+            "_id": "64ab9dcab98332f73f707148",
+            "BRAND_NAME": "AA TECHNO"
+        },
+        {
+            "_id": "64aba09bb98332f73f7076af",
+            "BRAND_NAME": "AA ONEPLUS"
+        },
+        {
+            "_id": "64ab9d0ab98332f73f706fd5",
+            "BRAND_NAME": "ADMIN"
+        },
+        {
+            "_id": "64ab9faeb98332f73f7074f0",
+            "BRAND_NAME": "OPE AIRTEL"
+        },
+        {
+            "_id": "64abaa28b98332f73f7086ed",
+            "BRAND_NAME": "AA COMPAQ"
+        },
+        {
+            "_id": "64ab9be1b98332f73f706d96",
+            "BRAND_NAME": "AA MOTOROLA"
+        },
+        {
+            "_id": "64ab9c1eb98332f73f706e0b",
+            "BRAND_NAME": "AA IBALL"
+        },
+        {
+            "_id": "64ab9c42b98332f73f706e50",
+            "BRAND_NAME": "AA VIDEOCON"
+        },
+        {
+            "_id": "64ab9eb0b98332f73f707306",
+            "BRAND_NAME": "AA SPICE"
+        },
+        {
+            "_id": "64ab9fc5b98332f73f70751c",
+            "BRAND_NAME": "VAS"
+        },
+        {
+            "_id": "64aba63ab98332f73f70801e",
+            "BRAND_NAME": "AA AVITA"
+        },
+        {
+            "_id": "64ab9e0bb98332f73f7071c7",
+            "BRAND_NAME": "AA HICELL"
+        }
+    ],
+    "apxData": 54
+}

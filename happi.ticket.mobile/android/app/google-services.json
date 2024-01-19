@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "388796241946",
+    "project_id": "happi-ticket",
+    "storage_bucket": "happi-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388796241946:android:17a3c600f36d916aa019a3",
+        "android_client_info": {
+          "package_name": "com.happi.tickettracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388796241946-jao0clcq9oajur0leniuf95lir85eor7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0-xXfxDFb1zUt19OwuFeCG5Z68M3d6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388796241946-jao0clcq9oajur0leniuf95lir85eor7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388796241946:android:f9f6210bbee1bf54a019a3",
+        "android_client_info": {
+          "package_name": "com.happyEmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388796241946-jao0clcq9oajur0leniuf95lir85eor7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0-xXfxDFb1zUt19OwuFeCG5Z68M3d6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388796241946-jao0clcq9oajur0leniuf95lir85eor7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
